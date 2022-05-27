@@ -5,6 +5,7 @@ Welcome to the Filajabob Website! Navigate the website:
 - [Rose](https://filajabob.github.io/rose)
 - [Quote Mania](https://filajabob.github.io/quote-mania)
 - [Rose Stock Market](https://filajabob.github.io/rose-stock-market)
+- [Geodle](https://filajabob.github.io/geodle)
 
 Or check some other links:
 
